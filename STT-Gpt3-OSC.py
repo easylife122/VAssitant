@@ -10,7 +10,7 @@ from pythonosc import udp_client
 
 
 # openai ChatBot model
-openai.api_key = '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'
+openai.api_key = ' '
 
 # Text to Speech pyttsx
 '''
